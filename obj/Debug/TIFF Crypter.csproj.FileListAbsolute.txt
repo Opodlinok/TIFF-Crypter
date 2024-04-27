@@ -1,0 +1,17 @@
+C:\Users\msypl\source\repos\Projects\TIFF Crypter\bin\Debug\TIFF Crypter.exe.config
+C:\Users\msypl\source\repos\Projects\TIFF Crypter\bin\Debug\TIFF Crypter.exe
+C:\Users\msypl\source\repos\Projects\TIFF Crypter\bin\Debug\TIFF Crypter.pdb
+C:\Users\msypl\source\repos\Projects\TIFF Crypter\obj\Debug\TIFF Crypter.csproj.AssemblyReference.cache
+C:\Users\msypl\source\repos\Projects\TIFF Crypter\obj\Debug\TIFF_Crypter.MainForm.resources
+C:\Users\msypl\source\repos\Projects\TIFF Crypter\obj\Debug\TIFF_Crypter.Properties.Resources.resources
+C:\Users\msypl\source\repos\Projects\TIFF Crypter\obj\Debug\TIFF Crypter.csproj.GenerateResource.cache
+C:\Users\msypl\source\repos\Projects\TIFF Crypter\obj\Debug\TIFF Crypter.csproj.CoreCompileInputs.cache
+C:\Users\msypl\source\repos\Projects\TIFF Crypter\obj\Debug\TIFF Crypter.exe
+C:\Users\msypl\source\repos\Projects\TIFF Crypter\obj\Debug\TIFF Crypter.pdb
+C:\Users\msypl\source\repos\Projects\TIFF Crypter\bin\Debug\ru\TIFF Crypter.resources.dll
+C:\Users\msypl\source\repos\Projects\TIFF Crypter\obj\Debug\TIFF_Crypter.MainForm.ru.resources
+C:\Users\msypl\source\repos\Projects\TIFF Crypter\obj\Debug\ru\TIFF Crypter.resources.dll
+C:\Users\msypl\source\repos\Projects\TIFF Crypter\bin\Debug\TIFF Crypter.exe.manifest
+C:\Users\msypl\source\repos\Projects\TIFF Crypter\bin\Debug\TIFF Crypter.application
+C:\Users\msypl\source\repos\Projects\TIFF Crypter\obj\Debug\TIFF Crypter.exe.manifest
+C:\Users\msypl\source\repos\Projects\TIFF Crypter\obj\Debug\TIFF Crypter.application
